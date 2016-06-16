@@ -1,0 +1,22 @@
+/* Sandbox for json */
+
+div {
+  clear:both
+}
+
+p {
+  line-height: 25px
+}
+
+img {
+  width: 50px;
+  margin-right: 15px;
+  float: left
+}
+
+.headshot {
+  width: 100px;
+  float:none;
+  margin-left: 25px;
+  border: 1px solid black;
+}
